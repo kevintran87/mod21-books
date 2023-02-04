@@ -20,5 +20,14 @@
   "bugs": {
     "url": "https://github.com/kevintran87/mod21-books/issues"
   },
-  "homepage": "https://github.com/kevintran87/mod21-books#readme"
+  "homepage": "https://github.com/kevintran87/mod21-books#readme",
+  "devDependencies": {
+    "concurrently": "^5.1.0"
+  },
+  "dependencies": {
+    "if-env": "^1.0.4"
+  }
 }
+
+
+
